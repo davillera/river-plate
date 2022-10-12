@@ -305,6 +305,7 @@ form p{
     display: block;
     cursor: pointer;
     font-size: 25px;
+    color: aliceblue;
   }
   nav .nav__menu {
     display: none;
@@ -344,6 +345,7 @@ form p{
     display: block;
     cursor: pointer;
     font-size: 25px;
+    color: aliceblue;
   }
   nav .nav__menu {
     display: none;
@@ -363,7 +365,7 @@ form p{
   }
   .jugadores{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr ;
   }
   .titulos{
     display: grid;
